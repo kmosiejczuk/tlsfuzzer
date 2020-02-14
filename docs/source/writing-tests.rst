@@ -261,6 +261,8 @@ and ignores any data in buffers.
 :py:class:`~.tlsfuzzer.expect.ExpectClose` instead verifies that server didn't
 send any messages before closing the socket.
 
+You can read more about alternatives in the :ref:`Decision tree` chapter.
+
 Executing decision trees
 ========================
 
